@@ -1,0 +1,20 @@
+.directions_container {
+  width: 100%;
+  background-image: url("../images/mapa.png");
+  background-position: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: contrast(50%);
+  display: flex;
+  flex-direction: column;
+  justify-content: baseline;
+}
+.photo_bg_map {
+  width: 100%;
+  background-image: url("../images/mapa.png");
+  filter: contrast(50%);
+  background-position: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: contrast(50%);
+}
