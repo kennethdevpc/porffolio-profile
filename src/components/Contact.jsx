@@ -92,7 +92,7 @@ function Contact() {
               <label className="label-text mb-6 " htmlFor="message">
                 <FormattedMessage
                   id="label.message"
-                  defaultMessage="Tu mensaje💜"
+                  defaultMessage="Tu mensaje"
                 />
               </label>
               <textarea

@@ -8,14 +8,12 @@
   "about.title": "Sobre mi",
   "about.about": "Me gradué como ingeniero en mecatrónica, luego hice una especialización en automatización industrial. Conocí el mundo de la industria y su implementación de modelos y sistemas automáticos, donde disfruté mucho de la rama de modelado y control con sistemas SCADA. Durante estas experiencias trabajé para los siguientes fabricantes ('Cafe Aguila Roja', 'B-Altman', y 2 más, programación de PLC y C (2018-2021)).",
   "about.about2": "Sin embargo, durante la pandemia, cuando todo se hacía virtualmente, desarrollé un interés en la tecnología de la información. Me eduqué en sistemas distribuidos en el máster universitario, lo que me llevó a descubrir que la programación encajaba mejor con mis pasiones e intereses. Por lo tanto, decidí cambiar el proyecto de maestría y ver la posibilidad de implementarlo con nuevas tecnologías, más adelante.",
-  "about.about3": "De esta manera, adquirí conocimientos en desarrollo Full-Stack (desde junio de 2021) y me uní a un proyecto en una empresa (DashFleet) en 2022, a través del cual progresé aún más en mis habilidades de desarrollo de software. Este año espero seguir mejorando mis habilidades en el desarrollo de aplicaciones y aprender de cada proyecto.",
+  "about.about3": "De esta manera, adquirí conocimientos en desarrollo Full-Stack (desde junio de 2021) y me uní a un proyecto en una empresa (DashFleet) en 2022, a través del cual progresé aún más en mis habilidades de desarrollo de software. Este año espero seguir mejorando mis habilidades en el desarrollo de aplicaciones y aprender de cada proyecto. Antes de la Pandemia trabajé en fabricantes industriales, realicé trabajos de PLC y Microcontroladores durante 2 años y medio.",
 
   "button.deploy": "Link al deploy",
-  "title.dogs": "Dogs app",
-  "description.dogs": "Proyecto individual para Henry Bootcamp. Aplicación de una página que consume una API. Desarrollado con JS, HTML, CSS, React, Redux, Nodejs, PostgreeSQL.",
+
   "title.rgb": "Tienda RGB",
-  "description.rgb": "Proyecto grupal para Henry Bootcamp. E-commerce de tecnología. Desarrollado con JS, HTML, Tailwind, React, Redux, NodeMailer, Passportjs, auth0, Nodejs, PostgreeSQL entre otras.",
-  "description.gioflix": "Clon del menú principal Netflix. Desarrollado con JS, HTML, CSS y ReactJS.",
+
   "title.portfolio": "Portafolio",
   "description.portfolio": "Página personal dedicada a mostrar proyectos y skills. Desarrollado con JS, HTML, Tailwind, DaisyUI y ReactJS",
   "title.avatar": "Juego de Avatar",

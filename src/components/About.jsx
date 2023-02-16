@@ -36,9 +36,10 @@ function About() {
             <FormattedMessage
               id="about.about3"
               defaultMessage="In this way, I acquired knowledge in Full-Stack development (since June 2021) and joined a project in a company (DashFleet) in 2022, through which I further progressed my software development skills. This year, I look forward to continuing progressing my skills in application development and learning from each
-project."
+project. Before Pandemic I worked into industrial manufactures, I made PLC an Microcontrollers works for along 2 years and half"
             />
           </p>
+
           <div className="flex items-center mt-6 -mx-2">
             <a
               className="mx-2"
