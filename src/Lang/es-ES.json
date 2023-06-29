@@ -27,5 +27,11 @@
   "label.message": "Tu mensaje",
   "input.message": "Tu mensaje",
   "button.contact": "Enviar",
-  "footer": "Los mejores deseos son los que se hacen de corazon. Motivado por un sueño, dificil pero alcanzable tambien. Exitos! "
+  "footer": "Los mejores deseos son los que se hacen de corazon. Motivado por un sueño, dificil pero alcanzable tambien. Exitos! ",
+  "description.cafeteria": "",
+  "description.crudEmploye": "",
+  "description.textReverse": "",
+  "description.pokemon": "",
+  "description.countries": "",
+  "description.weatherapp": ""
 }
