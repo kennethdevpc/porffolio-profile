@@ -11,6 +11,7 @@
   "about.about3": "De esta manera, adquirí conocimientos en desarrollo Full-Stack (desde junio de 2021) y me uní a un proyecto en una empresa (DashFleet) en 2022, a través del cual progresé aún más en mis habilidades de desarrollo de software. Este año espero seguir mejorando mis habilidades en el desarrollo de aplicaciones y aprender de cada proyecto. Antes de la Pandemia trabajé en fabricantes industriales, realicé trabajos de PLC y Microcontroladores durante 2 años y medio.",
 
   "button.deploy": "Link al deploy",
+  "button.project": "Link al Repositorio",
 
   "title.rgb": "Tienda RGB",
 
@@ -28,6 +29,7 @@
   "input.message": "Tu mensaje",
   "button.contact": "Enviar",
   "footer": "Los mejores deseos son los que se hacen de corazon. Motivado por un sueño, dificil pero alcanzable tambien. Exitos! ",
+  "description.shoop": "Un carrito de compras en React: Un componente fácil de usar para explorar y administrar productos, agregarlos a un carrito y realizar una compra sin problemas.",
   "description.cafeteria": "",
   "description.crudEmploye": "",
   "description.textReverse": "",

@@ -5,10 +5,15 @@ import PO from '../images/pokemon.png';
 import TR from '../images/textReverse.png';
 import EM from '../images/crudEmploye.png';
 import CA from '../images/cafeteria.png';
+import SH from '../images/shoop.png';
 
 import { FormattedMessage } from 'react-intl';
 
 function Projects() {
+  const containerStyle = {
+    display: 'flex',
+    justifyContent: 'flex-end',
+  };
   return (
     <section className="font-Over  bg-gradient-to-r bg-gradient-to-r from-lime-400 to-sky-600 to-indigo-400">
       <div className="conteiner lg:mx-20 px-5 py-24">
@@ -21,6 +26,39 @@ function Projects() {
           </div>
         </div>
         {/* //__________________ */}
+        <div className="card bg-opacity-75 mb-5 lg:card-side bg-base-100 shadow-xl">
+          <figure>
+            <img className="w-100 h-52" width="300" height="180" src={SH} alt="shoop app" />
+          </figure>
+          <div className="card-body">
+            <h2 className="card-title uppercase">
+              <FormattedMessage id="title.shoop" defaultMessage="shoop app" />
+            </h2>
+            <p>
+              <FormattedMessage id="description.shoop" defaultMessage="Shoop cart" />
+            </p>
+            <div className="card-actions d-flex justify-content-end" style={containerStyle}>
+              <div className="card-actions justify-end ">
+                <a target="_blank" rel="noopener noreferrer" href="http://wonderful-bean.surge.sh/">
+                  <button className="btn btn-primary uppercase">
+                    <FormattedMessage id="button.deploy" defaultMessage="Deploy" />
+                  </button>
+                </a>
+              </div>
+              <div className="card-actions justify-center">
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://github.com/kennethdevpc/miniMarketReact"
+                >
+                  <button className="btn btn-primary uppercase">
+                    <FormattedMessage id="button.project" defaultMessage="Deploy" />
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
         <div className="card bg-opacity-75 mb-5 lg:card-side bg-base-100 shadow-xl">
           <figure>
             <img className="w-100 h-52" width="300" height="180" src={CA} alt="cafeteria app" />

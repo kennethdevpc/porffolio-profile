@@ -11,6 +11,7 @@
   "about.about3": "In this way, I acquired knowledge in Full-Stack development (since June 2021) and joined a project in a company (DashFleet) in 2022, through which I further progressed my software development skills. This year, I look forward to continuing progressing my skills in application development and learning from each project. Before of Pandemic, I worked into industrial manufactures, I made PLC an Microcontrollers works for along 2 years and half",
   "about.button": "Resume",
   "button.deploy": "Go to deploy",
+  "button.project": "Link to Repository",
   "title.dogs": "Dogs app",
   "title.weatherapp": "Weather app",
 
@@ -31,6 +32,7 @@
   "input.message": "Your message",
   "button.contact": "Send",
   "footer": "The best wishes are those that are made from the heart. Motivated by a dream, difficult but achievable too",
+  "description.shoop": "A React shopping cart: A user-friendly component for browsing and managing products, adding them to a cart, and smooth checkout.",
   "description.cafeteria": "An E-commerce for a coffee shop, with authentication, in Laravel: use of php and .blade",
   "description.crudEmploye": "A System for creating employees, with authentication, in Laravel: use of php and .blade",
   "description.textReverse": "A REST API, to which a text is sent and it responds with the same inverted text.",
