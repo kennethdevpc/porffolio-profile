@@ -6,6 +6,7 @@ import TR from '../images/textReverse.png';
 import EM from '../images/crudEmploye.png';
 import CA from '../images/cafeteria.png';
 import SH from '../images/shoop.png';
+import CC from '../images/classcentral.png';
 
 import { FormattedMessage } from 'react-intl';
 
@@ -106,6 +107,28 @@ function Projects() {
                   <FormattedMessage id="button.deploy" defaultMessage="PROJECT" />
                 </button>
               </a>
+            </div>
+          </div>
+        </div>
+        <div className="card bg-opacity-75 mb-5 lg:card-side bg-base-100 shadow-xl">
+          <figure>
+            <img className="w-100 h-52" width="300" height="180" src={CC} alt="SCRAPPING app" />
+          </figure>
+          <div className="card-body">
+            <h2 className="card-title uppercase">
+              <FormattedMessage id="title.classcentral" defaultMessage="SCRAPP app" />
+            </h2>
+            <p>
+              <FormattedMessage id="description.classcentral" defaultMessage="classcentral scrapp" />
+            </p>
+            <div className="card-actions d-flex justify-content-end" style={containerStyle}>
+              <div className="card-actions justify-end ">
+                <a target="_blank" rel="noopener noreferrer" href="https://classcentralkenneth.netlify.app/">
+                  <button className="btn btn-primary uppercase">
+                    <FormattedMessage id="button.deploy" defaultMessage="Deploy" />
+                  </button>
+                </a>
+              </div>
             </div>
           </div>
         </div>

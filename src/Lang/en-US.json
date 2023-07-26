@@ -38,5 +38,6 @@
   "description.textReverse": "A REST API, to which a text is sent and it responds with the same inverted text.",
   "description.pokemon": "API project with react and pokemon node. It consumes external API and JS, HTML, CSS, React, Redux is used.",
   "description.countries": "Project to call an api and illustrate time characteristics from form. One-page application that consumes an API. Made with JS, HTML, CSS, React, Redux.",
-  "description.weatherapp": "Project to call an api and illustrate time characteristics from form. One-page application that consumes an API. Made with JS, HTML, CSS, React, Redux."
+  "description.weatherapp": "Project to call an api and illustrate time characteristics from form. One-page application that consumes an API. Made with JS, HTML, CSS, React, Redux.",
+  "description.classcentral": "Project focus on, scrapping, Here its used scrapp technologies "
 }
