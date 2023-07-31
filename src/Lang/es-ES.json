@@ -36,5 +36,6 @@
   "description.pokemon": "",
   "description.countries": "",
   "description.weatherapp": "",
-  "description.classcentral": "El proyecto se centra en el scrapping. Aquí se utilizan tecnologías de scrapp."
+  "description.classcentral": "El proyecto se centra en el scrapping. Aquí se utilizan tecnologías de scrapp.",
+  "description.notes": "Proyecto enfocado a MERN, aqui se utilizan tecnologias como MongoDB, NodeJs, and Handlebars "
 }

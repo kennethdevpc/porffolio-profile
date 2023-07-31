@@ -7,6 +7,7 @@ import EM from '../images/crudEmploye.png';
 import CA from '../images/cafeteria.png';
 import SH from '../images/shoop.png';
 import CC from '../images/classcentral.png';
+import NA from '../images/notesApp.png';
 
 import { FormattedMessage } from 'react-intl';
 
@@ -27,6 +28,39 @@ function Projects() {
           </div>
         </div>
         {/* //__________________ */}
+        <div className="card bg-opacity-75 mb-5 lg:card-side bg-base-100 shadow-xl">
+          <figure>
+            <img className="w-100 h-52" width="300" height="180" src={NA} alt="notes app" />
+          </figure>
+          <div className="card-body">
+            <h2 className="card-title uppercase">
+              <FormattedMessage id="title.notes" defaultMessage="Notes-app" />
+            </h2>
+            <p>
+              <FormattedMessage id="description.notes" defaultMessage="Notes app" />
+            </p>
+            <div className="card-actions d-flex justify-content-end" style={containerStyle}>
+              <div className="card-actions justify-end ">
+                <a target="_blank" rel="noopener noreferrer" href="https://notes-app-mongo.onrender.com/">
+                  <button className="btn btn-primary uppercase">
+                    <FormattedMessage id="button.deploy" defaultMessage="Deploy" />
+                  </button>
+                </a>
+              </div>
+              <div className="card-actions justify-center">
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://github.com/kennethdevpc/nodeMongoodb"
+                >
+                  <button className="btn btn-primary uppercase">
+                    <FormattedMessage id="button.project" defaultMessage="Deploy" />
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
         <div className="card bg-opacity-75 mb-5 lg:card-side bg-base-100 shadow-xl">
           <figure>
             <img className="w-100 h-52" width="300" height="180" src={SH} alt="shoop app" />
